@@ -1,7 +1,7 @@
 const mysql = require('mysql2');
 
 const db = mysql.createConnection({
-    'host' : 'localhost',
+    'host' : 'sql309.infinityfree.com',
     'port' : '3306',
     'database' : 'if0_37820933_work_sheet',
     'user' : 'if0_37820933',
